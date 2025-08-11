@@ -2,7 +2,7 @@
 
 ## Task 1 – Ground Level Detection
 
-In this task, we estimated the ground level of the point cloud data using a histogram-based mode approach. The z-values (height) of all the points were used to build a histogram, and the bin with the maximum frequency was chosen as the approximate ground level.
+In this task, I estimated the ground level of the point cloud data using a histogram-based mode approach. The z-values (height) of all the points were used to build a histogram, and the bin with the maximum frequency was chosen as the approximate ground level.
 
 ### 🔹 Method:
 - Extracted the z-axis (height) values from the point cloud.
